@@ -1,6 +1,6 @@
-# ERP System for Employee Tracking  - Backend
+# RAFIQ | ERP System for Employee Tracking  - Backend
 
-This repository contains the backend service for an ERP-based Employee Tracking System. The system is designed to help managers assign and monitor tasks, track employee locations in real-time, and evaluate performance using KPIs. Built with NestJS and PostgreSQL, it incorporates modern backend practices such as asynchronous queues, WebSockets, and caching.
+This repository contains the backend service for an RAFI is an ERP-based Employee Tracking System. The system is designed to help managers assign and monitor tasks, track employee locations in real-time, and evaluate performance using KPIs. Built with NestJS and PostgreSQL, it incorporates modern backend practices such as asynchronous queues, WebSockets, and caching.
 
 ## Features
 
