@@ -1,6 +1,6 @@
-# ERP Delivery Tracking System - Backend
+# ERP System for Employee Tracking  - Backend
 
-This repository contains the backend service for an ERP-based Delivery Tracking System. The system is designed to help managers assign and monitor delivery tasks, track employee locations in real-time, and evaluate performance using KPIs. Built with NestJS and PostgreSQL, it incorporates modern backend practices such as asynchronous queues, WebSockets, and caching.
+This repository contains the backend service for an ERP-based Employee Tracking System. The system is designed to help managers assign and monitor tasks, track employee locations in real-time, and evaluate performance using KPIs. Built with NestJS and PostgreSQL, it incorporates modern backend practices such as asynchronous queues, WebSockets, and caching.
 
 ## Features
 
@@ -12,6 +12,10 @@ This repository contains the backend service for an ERP-based Delivery Tracking 
 - **Role-Based Access**: Differentiated access for managers and employees.
 - **Clean Architecture**: Modular codebase with clear domain separation.
 
+## Architecture
+<img width="812" height="571" alt="Screenshot 2025-06-09 223357" src="https://github.com/user-attachments/assets/fadefb1f-e87e-49fd-859d-15fa1ee081ed" />
+
+
 ## Tech Stack
 
 | Category        | Technology        | Description                                               |
@@ -21,6 +25,7 @@ This repository contains the backend service for an ERP-based Delivery Tracking 
 | Messaging Queue| RabbitMQ          | Queue system for background processing                   |
 | Realtime       | WebSocket         | Location streaming and live updates                      |
 | Caching        | Memcached         | Improves performance by reducing DB reads                |
+
 
 ## Core Workflow
 
