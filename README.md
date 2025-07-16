@@ -70,8 +70,8 @@ This repository contains the backend service for an RAFI is an ERP-based Employe
     - **Distance Traveled**
   - KPI data is stored and associated with the Employee's record.
 
+---
 
-System calculates KPIs (completion rate, delivery time, distance).
+<img width="1415" height="724" alt="Picture4" src="https://github.com/user-attachments/assets/a2dbcaab-ba2d-432a-bc0c-05f7ec204a83" />
 
-KPIs are stored and associated with the employee’s record.
 
